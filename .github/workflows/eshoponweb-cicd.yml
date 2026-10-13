@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 30a27b5e-d36e-427d-9f0d-9d02985fa439
-  WEBAPP-NAME: devops-webapp-eastus-66158011
+  WEBAPP-NAME: devops-webapp-region2-66158011
 
 jobs:
   #Build, test and publish .net web project in repository
